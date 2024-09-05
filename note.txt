@@ -1,0 +1,24 @@
+git init
+
+git remote add origin (url link)
+
+git status
+
+git add .
+
+git commit -m "Message"
+
+git push
+
+
+Mathematic Operator
+=> +, -, *, /, %
+
+Assignment Operator
+=> =, +=, -=, *=, /=, %=
+
+Comparison Operator
+=> ==, !=, <, <=, >, >=
+
+Logical Operator
+=> &&, //, !
